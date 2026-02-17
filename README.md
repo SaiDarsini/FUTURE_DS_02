@@ -1,4 +1,53 @@
+# 📊 Customer Retention & Churn Analysis
+### Data Science & Analytics – Task 2 (Future Interns)
 
+---
+
+## 📌 Project Overview
+
+This project analyzes customer churn patterns in a subscription-based business to identify:
+
+- Why customers leave
+- Which segments are most at risk
+- Customer lifetime trends
+- Financial impact of churn
+- Actionable strategies to improve retention
+
+The goal is to provide business-driven insights that support revenue growth and long-term customer engagement.
+
+---
+
+## 🛠 Tools Used
+
+- Python (Data Cleaning & Preparation)
+- Power BI (Dashboard & KPI Visualization)
+- DAX (Retention & Churn Metrics)
+- GitHub (Project Documentation)
+
+---
+
+## 📂 Project Structure
+
+FUTURE_DS_02/
+│
+├── data/
+│ ├── raw_churn.csv
+│ └── cleaned_churn.csv
+│
+├── notebooks/
+│ └── churn_analysis.ipynb
+│
+├── dashboard_powerbi/
+│ ├── churn_dashboard.pbix
+│ └── churn_dashboard.pdf
+│
+├── report/
+│ └── insights.md
+│
+├── images/
+│ └── dashboard_screenshot.png
+│
+└── README.md
 
 ---
 
@@ -117,6 +166,7 @@ Reducing churn even by a small percentage can significantly increase:
 Data Science \& Analytics Intern – Future Interns  
 
 2026
+
 
 
 
